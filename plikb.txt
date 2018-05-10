@@ -1,1 +1,2 @@
 zmiana wprowadzana do æwiczenia git blame
+nowa linia tekstu
